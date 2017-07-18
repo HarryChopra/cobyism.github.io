@@ -11,8 +11,8 @@ ready = function() {
   if (instafeed.length && !instafeed.attr('populated')){
     var userFeed = new Instafeed({
       get: 'user',
-      userId: 185695,
-      accessToken: '185695.0ba7f55.7d6189f0d88d4f4aab82f134388b032b',
+      userId: 5926345,
+      accessToken: '5926345.1677ed0.af3c4e5f38d349598228ac78815be27e',
       resolution: 'low_resolution',
       limit: '4'
     });
