@@ -1,14 +1,14 @@
-title: "Coby Chapple (@cobyism)"
+title: "Harry Chopra (@harrychopra)"
 description: Product designer and web developer at GitHub
 
 author:
-  name: Coby Chapple
-  handle: cobyism
+  name: Harry Chopra
+  handle: harrychopra
   email: coby@cobyism.com
 
 permalink: /blog/:title/
 baseurl: /
-url: http://cobyism.com
+url: http://harrychopra.github.io
 highlighter: rouge
 
 markdown: kramdown
